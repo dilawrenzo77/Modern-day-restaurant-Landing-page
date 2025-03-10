@@ -1,0 +1,17 @@
+img {
+    aspect-ratio: 1 / 1;
+    width: 2.5rem;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logoHead {
+    font-family: "Moon dance";
+    font-size: 2rem;
+}
+.iconLogo {
+    fill: orangered;
+    fill-opacity: 0.9;
+}

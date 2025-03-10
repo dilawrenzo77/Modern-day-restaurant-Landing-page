@@ -1,0 +1,48 @@
+.section2Container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 2rem;margin: 3rem 0;
+}
+.section2Content1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 0.5rem;
+}
+.section2Content1 h2 {
+    text-align: center;
+}
+.section2Content1 p {
+    text-align: center;
+}
+.content2Card {
+    width: 80vw;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 
+        repeat(auto-fit, minmax(100px, 1fr));
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 1rem;
+    padding: 1rem 0;
+    border-radius: 0.2rem;
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.128);
+}
+.card p {
+    font-size: 1rem;
+    text-align: center;
+}
+.card img {
+    width: 5rem;
+    aspect-ratio: 1 / 1;
+    border: none;
+    border-radius: 50%;
+    box-shadow: 3px 3px 5px orangered;
+}

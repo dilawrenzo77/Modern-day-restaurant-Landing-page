@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+# A modern day restaurant's Landing-page REACT
+This is a personal project of a modern day restaurant landing page. It is a sleek,user friendly, responsive and modern day designed landing page.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Features
++ React Components: The page is built using reusable React components for better maintainability and scalability.
 
-In the project directory, you can run:
++ Responsive design: designed to be responsive taking into consideration various device sizes
 
-### `npm start`
++ CSS Styling: Custom CSS is used to replicate the design of the landing page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
++ No External Libraries: The project does not rely on external UI libraries like Bootstrap or Material-UI, ensuring a lightweight and custom implementation.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Technologies Used
++ React: A JavaScript library for building user interfaces.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
++ HTML5: For structuring the content of the landing page.
 
-### `npm run build`
++ CSS: For styling and animations.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
++ JavaScript (ES6+): For interactivity and dynamic content.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
++ Git: For version control and collaboration.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Setup Instructions
+### Prerequisites
+The latest versions
++ React
++ Git
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Installations
+### Instructions
+1. Clone This repo
+```
+git clone https://github.com/dilawrenzo77/Modern-day-restaurant-landing-page.git
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+2. Navigate to the Project Directory:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+cd swifteats
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+3. Install Dependencies:
+```
+npm install
+```
+4. Start the Development Server:
+```
+npm start
+```
 
-### Code Splitting
+5. Access application
+```
+http://localhost:3000
+```
+The project will automatically open in your default browser at http://localhost:3000. If it doesn't, you can manually navigate to this URL.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Products ScreenShots
+These are the screenshot images of the design of the web Project.
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![](./src/assets/project%20screenShots/pic1.png)
 
-### Advanced Configuration
+![](./src/assets/project%20screenShots/pic2.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![](./src/assets/project%20screenShots/pic3.png)
 
-### Deployment
+![](./src/assets/project%20screenShots/pic4.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![](./src/assets/project%20screenShots/pic5.png)
 
-### `npm run build` fails to minify
+![](./src/assets/project%20screenShots/pic6.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![](./src/assets/project%20screenShots/pic7.png)
+
+![](./src/assets/project%20screenShots/pic8.png)
+
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bugfix.
+
+3. Commit your changes.
+
+4. Push your branch and submit a pull request.
+
+## Acknowledgments
+Special thanks to the open-source community for providing the tools and libraries used in this project.
+
+
+## Contact
+If you have any questions, feedback, feel free to reach out:
+
+Email: mbatalawrence@gmail.com
+
+GitHub: [dilawrenzo77](https://github.com/dilawrenzo77) "# Modern-day-restaurant-Landing-page" 
