@@ -1,5 +1,5 @@
 .footerContainer1 {
-    background-image: url("C:/Users/Godgive Computer LTD/Desktop/Web PortFolio/swiftEats/swifteats/src/assets/food10.jpg");
+    background-image: url("/src/assets/food10.jpg");
     background-size: cover;
     display: grid;
     grid-template-columns: 
