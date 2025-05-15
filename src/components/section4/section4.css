@@ -1,6 +1,6 @@
 .section4Container {
     display: grid;
-    background-image: url("C:/Users/Godgive Computer LTD/Desktop/Web PortFolio/swiftEats/swifteats/src/assets/food9.jpg");
+    background-image: url("/src/assets/food9.jpg");
     background-size: cover;
     grid-template-columns: 
         repeat(auto-fit, minmax(100px, 1fr));
